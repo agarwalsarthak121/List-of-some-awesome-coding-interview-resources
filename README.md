@@ -1,16 +1,19 @@
 ## Youtube channels:
 
 #DSA
+
 [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 [mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ)
 
 #Low level Design
+
 [Udit Agarwal](https://www.youtube.com/user/UDIT19911)
 [Think Software](https://www.youtube.com/c/ThinkSoftware/featured)
 
 #High Level Design
+
 [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 [Think Software](https://www.youtube.com/c/ThinkSoftware/featured)
@@ -19,6 +22,7 @@
 [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 
 #Demo Interviews
+
 [Interviewing.io](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg)
 
 ## Courses/Books
