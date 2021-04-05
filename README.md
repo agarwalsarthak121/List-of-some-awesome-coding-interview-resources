@@ -1,5 +1,3 @@
-## Youtube channels:
-
 # DSA
 
 1. [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
