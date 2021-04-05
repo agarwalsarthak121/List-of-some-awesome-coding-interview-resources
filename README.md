@@ -1,29 +1,29 @@
 ## Youtube channels:
 
-#DSA
+# DSA
 
 1. [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 2. [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 3. [mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 4. [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ)
 
-#Low level Design
+# Low level Design
 
-[Udit Agarwal](https://www.youtube.com/user/UDIT19911)
-[Think Software](https://www.youtube.com/c/ThinkSoftware/featured)
+1. [Udit Agarwal](https://www.youtube.com/user/UDIT19911)
+2. [Think Software](https://www.youtube.com/c/ThinkSoftware/featured)
 
-#High Level Design
+# High Level Design
 
-[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-[Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
-[Think Software](https://www.youtube.com/c/ThinkSoftware/featured)
-[Sudo Code](https://www.youtube.com/channel/UCMrRRZxUAXRzjai0SSoFgdw)
-[Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
-[System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
+1. [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+2. [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+3. [Think Software](https://www.youtube.com/c/ThinkSoftware/featured)
+4. [Sudo Code](https://www.youtube.com/channel/UCMrRRZxUAXRzjai0SSoFgdw)
+5. [Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+6. [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 
-#Demo Interviews
+# Demo Interviews
 
-[Interviewing.io](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg)
+1. [Interviewing.io](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg)
 
 ## Courses/Books
 
