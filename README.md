@@ -4,6 +4,7 @@
 2. [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 3. [mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 4. [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ)
+5. [Pep Coding](https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw)
 
 # Low level Design
 
